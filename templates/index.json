@@ -50,7 +50,6 @@
         "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/saving_df56f3f6-b3ea-436b-9e83-df499bca48c6.png",
             "title": "Top Of The Line Products For Less",
             "text": "<p>Our outlet products are tested<strong> <\/strong>and guaranteed<strong> <\/strong>to perform while saving you money while doing so.<\/p>",
             "link_label": "Shop",
@@ -60,7 +59,6 @@
         "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/guarantee_f82e7840-2408-4573-9a5b-6d0d529cbdb0.png",
             "title": "1 Year Warranty",
             "text": "<p>We're so confident that you'll love our products we are offering a <strong>(1) year warranty<\/strong> when you purcahse.<\/p>",
             "link_label": "Shop",
@@ -70,7 +68,6 @@
         "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/free-shipping_fdc66f62-1ad5-421a-8993-06dce93bc6c8.png",
             "title": "Free Returns",
             "text": "<p>Item isn't what you expected? We offer <strong>FREE<\/strong> returns on all products purchased from GCM Outlet.<\/p>",
             "link_label": "Shop",
