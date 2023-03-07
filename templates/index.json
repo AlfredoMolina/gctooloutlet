@@ -46,6 +46,7 @@
     },
     "43d7262d-a10e-4883-8a7b-898fb0af198c": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-0": {
           "type": "column",
@@ -108,7 +109,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "available-in-store",
+        "collection": "preowned",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
@@ -129,6 +130,7 @@
     },
     "0d60e966-d074-4246-b0dc-c99ede6726d3": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-0": {
           "type": "heading",
@@ -242,6 +244,7 @@
     },
     "284eab99-aa5c-4d48-bdd5-a030e4f0a537": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-0": {
           "type": "heading",
@@ -295,6 +298,7 @@
     },
     "f5f9880c-c6cb-411f-a644-59133fe4ab13": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-0": {
           "type": "heading",
