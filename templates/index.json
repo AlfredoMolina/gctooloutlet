@@ -276,7 +276,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "clearance",
+        "collection": "clearence",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
