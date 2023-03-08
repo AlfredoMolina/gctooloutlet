@@ -1,104 +1,38 @@
 {
   "sections": {
-    "aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04": {
-      "type": "image-with-text",
+    "a0762e97-7592-4237-8d98-c0a8e15b1733": {
+      "type": "slideshow",
       "blocks": {
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-0": {
-          "type": "heading",
+        "template--16707332538619__a0762e97-7592-4237-8d98-c0a8e15b1733-16783180001735706b-0": {
+          "type": "slide",
           "settings": {
-            "heading": "Save A Tool. Save Money",
-            "heading_size": "h0"
-          }
-        },
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Tested & Guaranteed to perform.        Lightly used products at a discount price<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-2": {
-          "type": "button",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/CleanShot_2023-03-08_at_12.53.52.png",
+            "heading": "Pre-Owned Tools",
+            "heading_size": "h1",
+            "subheading": "Save up to 50%. Tested & Guaranteed to perform. Lightly used products at a discounted price.",
             "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/pre-owned-tools"
+            "link": "shopify:\/\/pages\/pre-owned-tools",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-0",
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-1",
-        "template--16526166884603__aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04-166510905470f0d31f-2"
+        "template--16707332538619__a0762e97-7592-4237-8d98-c0a8e15b1733-16783180001735706b-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image-w-Text-Final_43f1e212-18eb-4050-b2de-816065703977.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 60,
-        "padding_bottom": 52
-      }
-    },
-    "43d7262d-a10e-4883-8a7b-898fb0af198c": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-0": {
-          "type": "column",
-          "settings": {
-            "title": "Top Of The Line Products For Less",
-            "text": "<p>Our outlet products are tested<strong> <\/strong>and guaranteed<strong> <\/strong>to perform while saving you money while doing so.<\/p>",
-            "link_label": "Shop",
-            "link": "shopify:\/\/pages\/pre-owned-tools"
-          }
-        },
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-1": {
-          "type": "column",
-          "settings": {
-            "title": "1 Year Warranty",
-            "text": "<p>We're so confident that you'll love our products we are offering a <strong>(1) year warranty<\/strong> when you purcahse.<\/p>",
-            "link_label": "Shop",
-            "link": "shopify:\/\/pages\/pre-owned-tools"
-          }
-        },
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-2": {
-          "type": "column",
-          "settings": {
-            "title": "Free Returns",
-            "text": "<p>Item isn't what you expected? We offer <strong>FREE<\/strong> returns on all products purchased from GCM Outlet.<\/p>",
-            "link_label": "Shop",
-            "link": "shopify:\/\/pages\/pre-owned-tools"
-          }
-        }
-      },
-      "block_order": [
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-0",
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-1",
-        "template--16526166884603__43d7262d-a10e-4883-8a7b-898fb0af198c-16770949023409a175-2"
-      ],
-      "custom_css": [
-        "img {width: 74px; height: 74px;}"
-      ],
-      "settings": {
-        "title": "Why Buy?",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "shopify:\/\/pages\/pre-owned-tools",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 52
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "16642389588c3350b9": {
@@ -128,93 +62,6 @@
         "padding_bottom": 28
       }
     },
-    "0d60e966-d074-4246-b0dc-c99ede6726d3": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Snow Throwers",
-            "heading_size": "h1"
-          }
-        },
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Clear paths, clear mind with our reliable snow throwers<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/pages\/snow-throwers"
-          }
-        }
-      },
-      "block_order": [
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-0",
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-1",
-        "template--16526166884603__0d60e966-d074-4246-b0dc-c99ede6726d3-16717403299090fb4c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1500-1500-10.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "3a72fe35-0957-4af9-8a16-3f445b475f58": {
-      "type": "rich-text",
-      "blocks": {
-        "274fd77a-892f-4eaa-90b5-5c9ba6a6fc22": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Deals on New Condition items now available<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16526166884603__3a72fe35-0957-4af9-8a16-3f445b475f58-1673647599ca5be588-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Brand new overstock DIY tools for less.<\/p>"
-          }
-        },
-        "template--16526166884603__3a72fe35-0957-4af9-8a16-3f445b475f58-1673647599ca5be588-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Save Now",
-            "button_link": "shopify:\/\/collections\/clearence",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "274fd77a-892f-4eaa-90b5-5c9ba6a6fc22",
-        "template--16526166884603__3a72fe35-0957-4af9-8a16-3f445b475f58-1673647599ca5be588-1",
-        "template--16526166884603__3a72fe35-0957-4af9-8a16-3f445b475f58-1673647599ca5be588-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "dee92873-6adc-41ee-9d63-7c347538a602": {
       "type": "featured-collection",
       "settings": {
@@ -240,103 +87,6 @@
         "swipe_on_mobile": false,
         "padding_top": 44,
         "padding_bottom": 52
-      }
-    },
-    "284eab99-aa5c-4d48-bdd5-a030e4f0a537": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Budget Tools Every Homeowner Should Have",
-            "heading_size": "h1"
-          }
-        },
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Go green for less green. Make sure you have all the tools you need. We've gathered our best pre-owned products in one spot. Find everything from power tools to gardening equipment.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/tools-under-79"
-          }
-        },
-        "b15acaa8-2dd5-4a0b-9b67-75883c925a2e": {
-          "type": "caption",
-          "settings": {
-            "caption": "",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-0",
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-1",
-        "template--16526166884603__284eab99-aa5c-4d48-bdd5-a030e4f0a537-16649142678e54b7fb-2",
-        "b15acaa8-2dd5-4a0b-9b67-75883c925a2e"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Scooter-01.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "f5f9880c-c6cb-411f-a644-59133fe4ab13": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>What is Buy with Prime?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Use your existing Prime Membership to take advantage of Buy with Prime Deals!<\/p>"
-          }
-        },
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/buy-with-prime-faq",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-0",
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-1",
-        "template--16526166884603__f5f9880c-c6cb-411f-a644-59133fe4ab13-16660507366943ef5c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 52,
-        "padding_bottom": 84
       }
     },
     "collapsible-content": {
@@ -393,58 +143,19 @@
         "layout": "none",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/woodchipper_cffabfa3-2bca-40a2-8b83-4c4eaadb0e2e.jpg",
         "image_ratio": "large",
         "desktop_layout": "image_first",
-        "padding_top": 36,
-        "padding_bottom": 68
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "SUBSCRIBE & SAVE",
-            "heading_size": "h2"
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Outlet watchlist coming soon. Sign up for regular stock updates and daily deals.<\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true,
         "padding_top": 36,
         "padding_bottom": 68
       }
     }
   },
   "order": [
-    "aa1ad155-b5c2-41c4-87fa-cd45ef1f8c04",
-    "43d7262d-a10e-4883-8a7b-898fb0af198c",
+    "a0762e97-7592-4237-8d98-c0a8e15b1733",
     "16642389588c3350b9",
-    "0d60e966-d074-4246-b0dc-c99ede6726d3",
-    "3a72fe35-0957-4af9-8a16-3f445b475f58",
     "dee92873-6adc-41ee-9d63-7c347538a602",
-    "284eab99-aa5c-4d48-bdd5-a030e4f0a537",
-    "f5f9880c-c6cb-411f-a644-59133fe4ab13",
-    "collapsible-content",
-    "newsletter"
+    "collapsible-content"
   ]
 }
