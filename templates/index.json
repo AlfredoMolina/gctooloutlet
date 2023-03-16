@@ -123,7 +123,7 @@
         "description": "<p>Save big on <em>Brand New<\/em> Products<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "clearence",
+        "collection": "clearance",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
