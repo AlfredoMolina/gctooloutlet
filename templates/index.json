@@ -96,7 +96,7 @@
         "description": "<p>Up to 50% off Retail Prices<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "preowned",
+        "collection": "preowned-tools",
         "products_to_show": 5,
         "columns_desktop": 5,
         "full_width": false,
