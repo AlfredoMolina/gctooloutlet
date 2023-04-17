@@ -41,8 +41,8 @@
         "template--16707332538619__578faa2a-dfc3-4c26-8c92-ec8f32db6623-1678318643bce3091a-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping & Returns",
-            "text": "<p>If you don't absolutely love your Pre-Owned Tool. Return it to us free of charge.<\/p>",
+            "title": "Free Shipping",
+            "text": "<p>Save more with Free Shipping on all orders. <\/p>",
             "link_label": "",
             "link": ""
           }
