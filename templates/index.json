@@ -88,61 +88,6 @@
         "padding_bottom": 36
       }
     },
-    "16642389588c3350b9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Pre-Owned Tools",
-        "heading_size": "h2",
-        "description": "<p>Up to 50% off Retail Prices<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "preowned-tools",
-        "products_to_show": 25,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "dee92873-6adc-41ee-9d63-7c347538a602": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Clearance",
-        "heading_size": "h2",
-        "description": "<p>Save big on <em>Brand New<\/em> Products<\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "clearance",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 52
-      }
-    },
     "collapsible-content": {
       "type": "collapsible-content",
       "blocks": {
@@ -205,6 +150,61 @@
         "padding_bottom": 68
       }
     },
+    "16642389588c3350b9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Pre-Owned Tools",
+        "heading_size": "h2",
+        "description": "<p>Up to 50% off Retail Prices<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "preowned-tools",
+        "products_to_show": 25,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "dee92873-6adc-41ee-9d63-7c347538a602": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Clearance",
+        "heading_size": "h2",
+        "description": "<p>Save big on <em>Brand New<\/em> Products<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "clearance",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 52
+      }
+    },
     "e151ac34-e2ca-4a20-b147-b9f7905c9f1c": {
       "type": "newsletter",
       "blocks": {
@@ -243,9 +243,9 @@
   "order": [
     "a0762e97-7592-4237-8d98-c0a8e15b1733",
     "578faa2a-dfc3-4c26-8c92-ec8f32db6623",
+    "collapsible-content",
     "16642389588c3350b9",
     "dee92873-6adc-41ee-9d63-7c347538a602",
-    "collapsible-content",
     "e151ac34-e2ca-4a20-b147-b9f7905c9f1c"
   ]
 }
