@@ -117,6 +117,7 @@
     },
     "dee92873-6adc-41ee-9d63-7c347538a602": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Clearance",
         "heading_size": "h2",
