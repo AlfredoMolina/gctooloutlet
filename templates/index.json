@@ -12,12 +12,12 @@
             "subheading": "Save up to 50%. Tested & Guaranteed to perform. Lightly used products at a discounted price.",
             "button_label": "Shop",
             "link": "shopify:\/\/pages\/pre-owned-tools",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
