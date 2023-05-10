@@ -7,6 +7,7 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "DIY for less. Free Shipping on ALL new and pre-owned tools.",
             "text_alignment": "center",
